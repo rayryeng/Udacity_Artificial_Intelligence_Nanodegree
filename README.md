@@ -4,3 +4,7 @@ programming portions of this nanodegree. They will be partitioned into separate 
 directory for more details on how to run each project and the work that
 was completed.
 
+Please note that Project #4 - Part of Speech Tagging is shared with the
+Udacity Natural Language Processing nanodegree and is in fact the first
+project from that nanodegree.  To view the completed project, please view the
+`HMM Tagger.ipynb` file or the corresponding HTML export in `HMM Tagger.html`.
